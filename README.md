@@ -18,6 +18,11 @@
 - 单实例运行，重复启动自动激活已有窗口
 - 非管理员启动时自动通过 UAC 提权重启
 
+<img width="1105" height="638" alt="Clip_2026-11-17_16-56-46" src="https://github.com/user-attachments/assets/252d7a75-bbe8-447f-8ef8-3e7e51d545a7" />
+
+<img width="1091" height="634" alt="Clip_2026-11-17_16-57-10" src="https://github.com/user-attachments/assets/a96a2778-637d-4727-a836-111bf920f256" />
+
+
 ## 重要：Windows 7 支持
 
 Windows 7 只能运行由 **Go 1.20.x** 构建的程序（Go 1.21 起官方要求 Windows 10 / Server 2016 及以上）。
